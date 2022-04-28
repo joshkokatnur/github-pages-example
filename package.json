@@ -18,5 +18,8 @@
   "devDependencies": {
     "eslint": "8.14.0",
     "eslint-config-next": "12.1.5"
+  },
+  "optionalDependencies": {
+    "@next/swc-linux-x64-gnu": "12.1.5"
   }
 }
